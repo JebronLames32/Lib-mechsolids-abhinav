@@ -1,4 +1,7 @@
 <h1 align="center"> Mechanics of Solids</h1>
+
+[![Downloads](https://static.pepy.tech/badge/Lib-mechsolids-abhinav)](https://pepy.tech/project/Lib-mechsolids-abhinav)
+
 <h2 align="center">Mechanical Engineering Department, Indian Institute of Technology Kharagpur</h2>
 
 <h3> parent repository : <a href="https://github.com/jeevanjyoti4/mechsolids">Repo Link</a> </h3>
